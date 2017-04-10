@@ -13,7 +13,9 @@ Getting started with PwdLess is easy:
 
 2. Add [configuration](#configuration) to an `appsettings.json` file
 
-3. Run PwdLess & [test it](#http-endpoints) to see if it works 
+3. Ubuntu requires, libunwind8 to be installed. apt-get install libunwind8 
+
+4. Run PwdLess executable & [test it](#http-endpoints) to see if it works. Successful execution shows message - "Now Listening on : http://server:port"
 
 # Basic process
 
